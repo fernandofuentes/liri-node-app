@@ -11,7 +11,7 @@ var T = new twitter(twitterKeys);
 
 var parameters = {
   q: "fernando4UT",
-  count: 20
+  count: 10
 }
 
 switch (inputs) {
